@@ -41,6 +41,6 @@ To implement Data Definition Language (DDL) SQL commands, Create, Update & Drop 
 - **Add screenshots of your output along with a link to your video**  
 
 ### Submission Details
-- **Submitted on** 26-03-2021
-- **Submitted by** Mr/Ms. XYZ
-- **Roll No.** 999
+- **Submitted on** 
+- **Submitted by** Mr. Yash pujari
+- **Roll No.** 40
